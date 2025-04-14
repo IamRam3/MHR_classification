@@ -97,6 +97,6 @@ python application.py
 
 This project demonstrates an end-to-end machine learning workflow from data preprocessing to cloud deployment. The integration with AWS ensures scalability and accessibility for real-world applications.
 
-📌 Author: [Your Name]
+📌 Author: [IamRam3]
 
-🔗 GitHub Repository: [Repo Link]
+🔗 GitHub Repository: [https://github.com/IamRam3/MHR_classification.git]
