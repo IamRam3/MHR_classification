@@ -38,12 +38,6 @@ This project involves building and deploying a machine learning model on AWS. Th
 
 * Implemented routes for model inference.
 
-**3.4 Deployment on AWS**
-
-* Deployed the Flask API using AWS Elastic Beanstalk.
-
-* Automated deployments using AWS CodePipeline.
-
 ## **4. Installation & Setup**
 
 **4.1. Local Setup**
@@ -82,7 +76,9 @@ python application.py
 ![Screenshot (686)](https://github.com/user-attachments/assets/d13089ce-dbde-4896-bf6f-3b585d57e0a2)
 
 
-**4.2. AWS Deployment**
+# To-Do
+
+## **4.2. AWS Deployment**
 
 * Initialize Elastic Beanstalk Application
 
