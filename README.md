@@ -58,6 +58,7 @@ pip install .
 ```
 
 Run the Flask API locally:
+Note :Before this take care of the path i.e '/' for Linux in predict_pipeline file.
 
 ```
 python application.py
