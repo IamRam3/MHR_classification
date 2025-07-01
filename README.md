@@ -1,6 +1,6 @@
 # MHR_classification
 
-ML for HEALTH.
+The Maternal **Health Risk Classification Project** focuses on developing a machine learning-based system to predict the risk level (low, mid, or high) of maternal health complications based on key clinical indicators. Maternal health is a critical area of healthcare that directly impacts both the mother and the newborn, and early identification of high-risk pregnancies can significantly reduce maternal and infant mortality rates.
 
 ## Demo video
 [Click to watch the demo](https://drive.google.com/file/d/1muPojuoTWXIuBtkxOEW08A2SPrbcwjqV/view?usp=sharing)
