@@ -48,10 +48,11 @@ This project involves building and deploying a machine learning model on AWS. Th
 
 **4.1. Local Setup**
 
-Clone the repository:
+Clone the repository & Move into the dir :
 
 ```
 git clone https://github.com/IamRam3/MHR_classification.git
+cd MHR_classification
 ```
 
 Create a virtual environment and install dependencies:
